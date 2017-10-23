@@ -4,8 +4,8 @@ from BeautifulSoup import BeautifulSoup, SoupStrainer
 
 #NOTE TO FUTURE DEVELOPERS:
 #These ranges will need to be updated as the tournament progresses
-range_start = 90934#90744
-range_end = 90954#105730
+range_start = 90744
+range_end = 105730
 
 opponent_name = raw_input('Opponent team name: ')
 print 'fetching your opponent\'s previous matches (this may take a minute)'
